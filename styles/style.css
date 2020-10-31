@@ -119,6 +119,22 @@
 	color: black;
 }
 
+.bottomdash-1{
+	position: relative;
+	left: 242px;
+	width: 902px;
+	height: 1000px;
+	background: white;
+	padding-top: 5pt;
+	opacity: 100%;
+	z-index: 110;
+	font-family: 'Roboto', sans-serif;
+	font-size: 44pt;
+	font-weight: normal;
+	letter-spacing: 5pt;
+	color: black;
+}
+
 
 .thoughts {
 	font-family: 'Roboto', sans-serif;
