@@ -140,6 +140,7 @@
 	font-weight: normal;
 	letter-spacing: 5pt;
 	color: black;
+	overflow: scroll;
 }
 
 
