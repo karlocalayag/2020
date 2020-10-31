@@ -246,6 +246,20 @@ a:hover {
 	z-index: 1;
 }
 
+.support-detail {font-family: 'Roboto', sans-serif;
+	font-size: 6pt;
+	font-weight: normal;
+	letter-spacing: 2pt;
+	line-height: 9pt;
+	color: black;
+	position: relative;
+	margin: 0pt;
+	top: 66pt;
+	left: 684pt;
+	z-index: 1;
+
+}
+
 /*.top-detail-3 {
 	font-family: 'Roboto', sans-serif;
 	font-size: 6pt;
